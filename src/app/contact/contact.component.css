@@ -1,0 +1,33 @@
+.custom-line{
+  position: absolute;
+  width: 250px;
+  height: 3px;
+  background-color: white;
+}
+.icon-star{
+  background-color: #1abc9c;
+  padding: 1rem;
+  z-index: 10;
+}
+.icon-star2{
+  background-color: white;
+  padding: 1rem;
+  z-index: 10;
+}
+
+.form-control{
+  padding: 1rem;
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+textarea.form-control{
+  resize: none;
+}
+
+form button{
+  background-color: #1abc9c;
+  color: white;
+  padding: 1rem;
+}
+

@@ -1,0 +1,24 @@
+#about{
+  background-color: #1abc9c;
+}
+.main-header{
+  font-size: 2.75rem;
+  line-height: 2.75rem;
+}
+
+.custom-line{
+  position: absolute;
+  width: 250px;
+  height: 3px;
+  background-color: white;
+}
+.icon-star{
+  background-color: #1abc9c;
+  padding: 1rem;
+  z-index: 10;
+}
+.icon-star2{
+  background-color: white;
+  padding: 1rem;
+  z-index: 10;
+}
